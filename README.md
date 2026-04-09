@@ -21,7 +21,7 @@ It allows users to manage their daily tasks efficiently.
 ## How to Run
 
 1. Clone the repository:git clone https://github.com/adityaashhhh/task-manager-react-native.git 
-2. Install dependencies:npm instal
+2. Install dependencies: npm instal
 3. Start the app: npm start
 4. Press `w` to run on web or scan QR with Expo Go.
 
